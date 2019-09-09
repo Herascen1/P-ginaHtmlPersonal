@@ -2,15 +2,19 @@
 {
 text-align: center;
 }
-#video
+.video
  { 
  	
- 	margin: 0 auto
- 	width:400px;
+width: 100%;
+
+margin: 0 auto;
+
+text-align: center;
+padding-top: 55px;
+ 	
   }
 
-#coment
-{ 
+#coment{ 
  	margin-left:  }
 .lista ul
 {
@@ -30,5 +34,43 @@ text-align: center;
 }
 .header
 {
- background-color: green;
+	text-align: center;
+ background-color: #cad3d9;
 }
+#body{
+	padding-left: 50px;
+	padding-right: 50px; 
+	background-color: grey;
+
+}
+#section{
+	padding-left: 100px;
+	padding-right:100px; 
+	
+}
+#nav{
+	background-color: #31373b;
+	padding: 20px;
+	margin-left: 25px;
+	margin-right: 25px; 
+	
+}
+#texto
+{
+	display: inline-block;
+vertical-align: top;}
+#imagen{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+
+	}
+	#imagenues{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+	}
+	
