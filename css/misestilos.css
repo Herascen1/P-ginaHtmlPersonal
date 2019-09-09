@@ -1,0 +1,34 @@
+.lista
+{
+text-align: center;
+}
+#video
+ { 
+ 	
+ 	margin: 0 auto
+ 	width:400px;
+  }
+
+#coment
+{ 
+ 	margin-left:  }
+.lista ul
+{
+   
+   padding-right: 0px;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   margin: auto;
+}
+
+.lista li
+{
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+}
+.header
+{
+ background-color: green;
+}
